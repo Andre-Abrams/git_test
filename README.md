@@ -1,1 +1,1 @@
-This is Andere's first git project!
+This is Andre's first git project!
